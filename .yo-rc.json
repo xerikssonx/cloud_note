@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "CloudNote",
+    "packageName": "com.edd.cloud_note",
+    "packageFolder": "com/edd/cloud_note",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ua",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "YjJjZDdkMGFlNDViNzFkZmE2ZDA2ZWZlZTgwZTI1MzY5OTM1NzAwNTI4ZmM0Njk0OTUwM2U3ZmE3ODU3YjZiZTNiNDM5MTBhNDlhMTY4MDFkNGYwYTBiZjhhYzI1MjU3MDgyZDJmMjIwYWFhZmJhZmM2YTdkMDVhZDQyYjI2OGQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "xerikssonx",
+  "repository-name": "cloud_note"
+}
